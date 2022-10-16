@@ -1,0 +1,12 @@
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\bin\Debug\net5.0\ClearBank.DeveloperTest.deps.json
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\bin\Debug\net5.0\ClearBank.DeveloperTest.dll
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\bin\Debug\net5.0\ClearBank.DeveloperTest.pdb
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\ClearBank.DeveloperTest.csproj.AssemblyReference.cache
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\ClearBank.DeveloperTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\ClearBank.DeveloperTest.AssemblyInfoInputs.cache
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\ClearBank.DeveloperTest.AssemblyInfo.cs
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\ClearBank.DeveloperTest.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\ClearBank.DeveloperTest.dll
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\refint\ClearBank.DeveloperTest.dll
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\ClearBank.DeveloperTest.pdb
+C:\Users\ibrahim.keskin\Desktop\brhm\test\clearbank_developer_test\ClearBank.DeveloperTest\obj\Debug\net5.0\ref\ClearBank.DeveloperTest.dll
